@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interior UI Designer"
+  short_description: "Plan polished responsive interior-design interfaces"
+  default_prompt: "Use $design-interior-ui to design a premium responsive interior website from visual references."
